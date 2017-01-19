@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Employee Cash",
-    "currentPage": "index.html",
+    "currentPage": "Board of Directors.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -21,11 +21,11 @@
       }
     },
     "favicon": "",
-    "noImageResize": "",
+    "noImageResize": "true",
     "google-analytics": "",
     "cookiesAlert": "",
     "versionFirst": "3.10",
-    "uniqCompNum": 41,
+    "uniqCompNum": 51,
     "versionPublish": "3.10.4",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -60,10 +60,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -98,7 +98,7 @@
           "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -130,7 +130,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -155,7 +155,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/web-designer-pune-background_5.jpg",
-            "bgColor": "#e3e2e2",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -221,7 +221,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/sayagata-400px-2000x2000-87.png",
-            "bgColor": "#e3e2e2",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -306,7 +306,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (484)432-0251",
+          "text2": "+1 484-498-8271",
           "media2": {
             "iconFont": {
               "active": true,
@@ -326,9 +326,9 @@
               "family": "et-line"
             }
           },
-          "text4": "nicole.souadda@employeemax.com",
+          "text4": "info@employeecash.net",
           "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li>",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -437,7 +437,8 @@
               "color": "#000"
             },
             ".mbr-section-title": {
-              "color": "#1288d3"
+              "color": "#1288d3",
+              "font-size": "36px"
             },
             ".lead P": {
               "font-family": "'Roboto', sans-serif",
@@ -451,7 +452,7 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-b",
           "_params": {
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
@@ -470,7 +471,7 @@
             "showButton": false
           },
           "title": "What Does EmployeeCash Offer?&nbsp;",
-          "text": "<p>&nbsp;&nbsp;&nbsp;&nbsp;The loan that We offer is an unsecured personal installment loan with a term of 24 months.  An important aspect of the loan is that it is repaid through automatic payroll deductions. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Loan amounts of $2,000 - $7,000, will be offered/available online, will settle within 2 days to the employee’s bank account and will be available for any purpose providing for any gaps in the employee’s basic living needs, available for expected and unexpected events, as well as planned future events. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Examples range from medical expense deductibles to unforeseen basic living emergencies such as home or car repair and even vacation expenses. &nbsp;</p>",
+          "text": "<p>&nbsp;&nbsp;&nbsp;</p><p>&nbsp;The loan that we offer is an unsecured personal installment loan with a term of 24 months.  An important aspect of the loan is that it is repaid through automatic payroll deductions. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Loan amounts of $2,000 - $7,000, will be offered/available online, will settle within 2 days to the employee’s bank account and will be available for any purpose providing for any gaps in the employee’s basic living needs, available for expected and unexpected events, as well as planned future events. </p><p> &nbsp;&nbsp;&nbsp;&nbsp;Examples range from medical expense deductibles to unforeseen basic living emergencies such as home or car repair and even vacation expenses. &nbsp;</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Apply for a Loan Today</a>"
         },
         {
@@ -520,92 +521,6 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"index.html\" data-toolbar=\"-mbrBtnMove\">Apply for A Loan Today</a>"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#2969b0"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#2969b0"
-            },
-            ".link, .dropdown-item": {
-              "color": "#2969b0"
-            },
-            ".link": {
-              "font-size": "0.9rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#000000!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#000000"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#2969b0",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#ffffff!important"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "menu",
-          "_anchor": "menu-8",
-          "_params": {
-            "bgColor": "#000000",
-            "fontSize": "0.9",
-            "fontName": {},
-            "fontColor": "#2969b0",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": true,
-            "collapsed": true,
-            "hideButtons": true
-          },
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-482x128-25.png",
-              "height": 128,
-              "alt": "Employee Cash",
-              "link": "#top",
-              "title": "Logo",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
-        },
-        {
           "_tags": [
             "Theme"
           ],
@@ -650,7 +565,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (484)432-0251",
+          "text2": "+1 484-498-8271",
           "media2": {
             "iconFont": {
               "active": true,
@@ -670,9 +585,9 @@
               "family": "et-line"
             }
           },
-          "text4": "nicole.souadda@employeemax.com",
+          "text4": "info@employeecash.net",
           "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li>",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -705,6 +620,96 @@
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
         },
         {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2969b0"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2969b0"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2969b0"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2969b0",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#2969b0",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-4x-483x128-20.png",
+              "height": 128,
+              "alt": "Employee Cash",
+              "link": "index.html",
+              "title": "Logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 50,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -714,7 +719,7 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "footer1-a",
+          "_anchor": "footer1-18",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -727,7 +732,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 EMPLOYEECASH."
+          "text": "Copyright (c) 2016 EmployeeMax Credit Solutions."
         }
       ]
     },
@@ -763,7 +768,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#efefef",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -894,6 +899,130 @@
           "allItem": "All"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-5",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#070707",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 EmployeeMax Credit Solutions."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-4",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#090909",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-265x70-36.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact US",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 484-498-8271",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "info@employeecash.net",
+          "title1": "Links&nbsp;",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nicole.souadda@employeemax.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
           "_styles": {
             ".hide-buttons .nav-btn": {
               "display": "none !important"
@@ -911,10 +1040,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -946,10 +1075,10 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-f",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -963,145 +1092,25 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-482x128-13.png",
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-4x-483x128-20.png",
               "height": 128,
               "alt": "Employee Cash",
-              "link": "#top",
+              "link": "index.html",
               "title": "Logo",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 50,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "contacts3",
-          "_anchor": "contacts3-g",
-          "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#090909",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#3C3C3C"
-          },
-          "logo": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-265x70-36.png",
-              "class": "card-img-top",
-              "width": 265,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
-              "link": "",
-              "size": 0
-            }
-          },
-          "text1": "Contact US",
-          "media1": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "phone",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text2": "+1 (484)432-0251",
-          "media2": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "map-pin",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
-          "media3": {
-            "iconFont": {
-              "active": true,
-              "class": "mbr-iconfont-company-contacts3",
-              "name": "envelope",
-              "size": 0,
-              "family": "et-line"
-            }
-          },
-          "text4": "nicole.souadda@employeemax.com",
-          "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li>",
-          "text6": "",
-          "form": {
-            "title": "MESSAGE",
-            "action": "TahirSalman7@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "title": "Name",
-                "visible": false,
-                "customTitle": "Name*"
-              },
-              "email": {
-                "title": "Email",
-                "visible": true,
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "title": "Phone",
-                "visible": false,
-                "customTitle": "Phone"
-              },
-              "message": {
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_styles": {
-            "P": {
-              "color": "#ffffff"
-            }
-          },
-          "_anchor": "footer1-h",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#070707",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 EMPLOYEECASH."
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         }
       ]
     },
@@ -1168,10 +1177,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1203,10 +1212,10 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-l",
+          "_anchor": "menu-0",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -1220,28 +1229,32 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-482x128-25.png",
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-4x-483x128-20.png",
               "height": 128,
               "alt": "Employee Cash",
-              "link": "#top",
+              "link": "index.html",
               "title": "Logo",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": 50,
+              "newWindow": false
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "contacts3",
-          "_anchor": "contacts3-m",
+          "_anchor": "contacts3-4",
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -1260,7 +1273,7 @@
               "class": "card-img-top",
               "width": 265,
               "active": true,
-              "link": "",
+              "link": "#top",
               "alt": "",
               "title": "",
               "linkInNewWindow": false
@@ -1281,7 +1294,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (484)432-0251",
+          "text2": "+1 484-498-8271",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1301,13 +1314,13 @@
               "family": "et-line"
             }
           },
-          "text4": "nicole.souadda@employeemax.com",
+          "text4": "info@employeecash.net",
           "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li>",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
-            "action": "TahirSalman7@gmail.com",
+            "action": "nicole.souadda@employeemax.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -1345,7 +1358,7 @@
               "color": "#ffffff"
             }
           },
-          "_anchor": "footer1-n",
+          "_anchor": "footer1-5",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
@@ -1358,7 +1371,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "Copyright (c) 2016 EMPLOYEECASH."
+          "text": "Copyright (c) 2016 EmployeeMax Credit Solutions."
         }
       ]
     },
@@ -1387,7 +1400,7 @@
           "_anchor": "msg-box8-12",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
@@ -1416,6 +1429,14 @@
             },
             ".mbr-section-title": {
               "color": "#4daee2"
+            },
+            ".lead P": {
+              "font-size": "18px",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "font-size": "18px",
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -1443,7 +1464,53 @@
             "showButton": false
           },
           "title": "Nicole Souadda",
-          "text": "<p><br></p><p>Nicole has been involved in and managed the operations of businesses for over 20 years in multiple industries such as manufacturing, insurance, financial services, education and security.  Nicole brings to an organization 5+ years of experience as a Board Secretary in both private and public companies.</p><div>&nbsp;</div><div>Nicole’s most recent experience in the payroll processing  industry as the Chief Operating Officer for EmployeeMax led to her role at EmployeeCash when the need to focus on the lifecycle of an employee and that employee's financial wellness became an integral part of a unique and exciting way to offer a paradigm shift in how employers look at their employees in a more holistic way, understanding that an employee who is financially secure is an overall better and more productive employee.  Nicole's experience with government licensing procedures, compliance and operations make her a valuable member of the EmployeeCash leadership team.  Nicole's previous experience was with The Mint Corporation where she worked from 2008 – 2014.  She was originally recruited as the Project Manager for Mint’s largest client, Canadian Tire Financial Services, and ended her tenure with Mint as the Head of Compliance and Investor Relations.  Mint’s wholly owned subsidiary, Mint Middle East LLC, became the leading payroll processing and financial products group in the United Arab Emirates and the Kingdom of Saudi Arabia and today processes in excess of 300,000 payrolls per month.</div><div>&nbsp;</div><div>Nicole is also currently working as a project management and compliance consultant for a start-up Pennsylvania based insurance company primarily focused on preparing and submitting the required regulatory documents.</div><div>&nbsp;</div><div>Nicole spends most of her down time with her 2 college aged children.  Nicole recently sat on the Executive Board of CAIR Philadelphia, an Islamic charitable organization, as the Treasurer and was previously the Chairman of Amana Foundation, a PA based non-profit organization.  Nicole was a Director of the National Investor Relations Institute Virtual Chapter from 2013 – 2014 and does an extensive amount of volunteer work within her community.  Nicole recently graduated from the Emerging Leaders program through the Small Business Administration.</div><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "text": "<p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Nicole has been involved in and managed the operations of businesses for over 20 years in multiple industries such as manufacturing, insurance, financial services, education and security.  Nicole brings to an organization 5+ years of experience as a Board Secretary in both private and public companies.</p><div>&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;Nicole’s most recent experience in the payroll processing  industry as the Chief Operating Officer for EmployeeMax led to her role at EmployeeCash when the need to focus on the lifecycle of an employee and that employee's financial wellness became an integral part of a unique and exciting way to offer a paradigm shift in how employers look at their employees in a more holistic way, understanding that an employee who is financially secure is an overall better and more productive employee.  Nicole's experience with government licensing procedures, compliance and operations make her a valuable member of the EmployeeCash leadership team.  Nicole's previous experience was with The Mint Corporation where she worked from 2008 – 2014.  She was originally recruited as the Project Manager for Mint’s largest client, Canadian Tire Financial Services, and ended her tenure with Mint as the Head of Compliance and Investor Relations.  Mint’s wholly owned subsidiary, Mint Middle East LLC, became the leading payroll processing and financial products group in the United Arab Emirates and the Kingdom of Saudi Arabia and today processes in excess of 300,000 payrolls per month.</div><div>&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;Nicole is also currently working as a project management and compliance consultant for a start-up Pennsylvania based insurance company primarily focused on preparing and submitting the required regulatory documents.</div><div>&nbsp;</div><div>&nbsp;&nbsp;&nbsp;&nbsp;Nicole spends most of her down time with her 2 college aged children.  Nicole recently sat on the Executive Board of CAIR Philadelphia, an Islamic charitable organization, as the Treasurer and was previously the Chairman of Amana Foundation, a PA based non-profit organization.  Nicole was a Director of the National Investor Relations Institute Virtual Chapter from 2013 – 2014 and does an extensive amount of volunteer work within her community.  Nicole recently graduated from the Emerging Leaders program through the Small Business Administration.</div><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#4daee2",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Richard Sultzer",
+          "text": "<p><br></p><p>&nbsp;&nbsp;&nbsp;&nbsp;Rick serves as Director of Business Strategy for the EmployeeCash business unit.  As a member of the executive team, he is responsible for all aspects of strategic planning and analysis, business definition and development, and strategic initiatives for the EmployeeCash loan program.  Most importantly, Rick is the primary driver of translating corporate vision and executing strategy into a well-defined start-up consumer lending business.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Rick has over 25 years of financial and strategic experience in the financial services industry, primarily in unsecured consumer lending.  Organizations have included a diversified range from public entities and related significant subsidiaries, to private companies, and to sophisticated nonprofit organizations.  Business environments have been high growth and start-up.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Prior to EmployeeCash, Rick was Vice President and Controller for Access Group, Inc., a $10 billion student loan provider and servicer.  He held various senior positions at GMAC Bank (now Ally Bank), the start-up direct bank which was an integral part of GMAC Financial Services.  There he successfully launched a private education loan program and an unsecured personal loan product, as well as providing leadership in the development and growth in high-yield deposit products. &nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Rick also served as Vice President at Advanta Business Services.  Along with operating on the senior-decision making team of a new business unit in an emerging market, he led the financial management group for a Business Card product from inception to a leader in its industry at over $1.8 billion in loan balances.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;He served as Vice President of CoreStates Financial Corp. and held numerous senior positions at financial services related subsidiaries.  Rick was an integral part of the financial planning and analysis team during the national launch of Discover Card.  Prior to that, he worked at Ernst &amp; Young in the audit and consulting areas.</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Rick is a licensed and active Certified Public Accountant in Pennsylvania.  He is a member of the American Institute of Certified Public Accountants and the Pennsylvania Institute of Certified Public Accountants.  Rick earned a Bachelor of Arts in Economics from St. Lawrence University and a Master of Business Administration from the Fuqua School of Business at Duke University. &nbsp; &nbsp; &nbsp;</p><p><br></p><p></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -1464,10 +1531,10 @@
               "color": "#2969b0"
             },
             ".link": {
-              "font-size": "0.9rem"
+              "font-size": "0.85rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.975rem"
+              "font-size": "0.921rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1502,7 +1569,7 @@
           "_anchor": "menu-x",
           "_params": {
             "bgColor": "#000000",
-            "fontSize": "0.9",
+            "fontSize": "0.85",
             "fontName": {},
             "fontColor": "#2969b0",
             "fontHoverColor": "@primaryColor",
@@ -1534,7 +1601,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><div class=\"dropdown open\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" href=\"Mission Statement.html\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Board of Directors</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management</a></div></div></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
         },
         {
           "_tags": [
@@ -1581,7 +1648,7 @@
               "family": "et-line"
             }
           },
-          "text2": "+1 (484)432-0251",
+          "text2": "+1 484-498-8271",
           "media2": {
             "iconFont": {
               "active": true,
@@ -1601,9 +1668,9 @@
               "family": "et-line"
             }
           },
-          "text4": "nicole.souadda@employeemax.com",
+          "text4": "info@employeecash.net",
           "title1": "Links&nbsp;",
-          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li>",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
           "text6": "",
           "form": {
             "title": "MESSAGE",
@@ -1646,6 +1713,409 @@
             }
           },
           "_anchor": "footer1-z",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#070707",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2016 EmployeeMax Credit Solutions."
+        }
+      ]
+    },
+    "Board of Directors.html": {
+      "settings": {},
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#4daee2",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-19",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": "0",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Board of Directors&nbsp;",
+          "text": "<div><br></div><p><br></p><p>Current Managers/Directors of EmployeeMax Credit Solutions LLC include:</p><p><b><i>•<b>\t<a href=\"Board of Directors.html#msg-box3-1a\" class=\"text-danger\">Chris Hogg, Executive Chairman</a></b></i></b></p><p><b><i>•<a href=\"Board of Directors.html#msg-box3-1b\" class=\"text-danger\">\tRobert Curran, Manager</a></i></b></p><p><b><i>•\t<a href=\"Board of Directors.html#msg-box3-1c\" class=\"text-danger\">Rennie Rodriguez, Manager</a></i></b></p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">&nbsp;</span><span style=\"line-height: 1.5;\">The organization is currently pursuing additional Board members.  It is focusing on external professionals who have critical industry expertise.</span><br></p><p><br></p><p><br></p><p><br></p><p><br></p><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#4daee2",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1a",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Nicole Souadda",
+          "text": "<p><br></p><p><b><i>Chris Hogg, Executive Chairman</i></b></p><p>&nbsp; &nbsp; </p><p>&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"line-height: 1.5;\">Chris has been the entrepreneurial prime mover behind a number of businesses in the consumer financial services industry. Chris is an Australian citizen and resides in Bryn Mawr, PA, USA. His experience is based in the corporate insurance, consumer debt recovery, retail financial services and payment transaction services industries.&nbsp;</span></p><p><br></p><p>&nbsp; &nbsp; Starting work in 1975 in Sydney Australia, he had 12 years’ experience working in International Insurance markets with Stewart Wrightson PLC, prior to its acquisition by Willis PLC. Chris was the youngest Director globally and worked both in the Australian and UK operations including experience in Lloyds of London.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; In 1990, he acquired and then grew one of Australia’s largest equipment leasing businesses, Equico, culminating in its listing on the Australian Stock Exchange in 2000. In 2001 he was the major shareholder and CEO of what was then Australia’s largest privately owned debt collection agency specializing in credit card debt recovery. In 2006, Chris joined the first Board of UK-based Marlin Financial Group, a start up in the Consumer debt collection and receivables management business based in London and oversaw the growth of this business from an initial non- performing loan portfolio of £5m to £2b.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; From 2008 to 2013, through his investment company Glocap Management Inc., he led an investment group to acquire control of a Canadian publicly listed debit card business, The Mint Corporation, and acted as its Executive Chairman until his retirement in 2013.</p><p><br></p><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#4daee2",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1b",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Nicole Souadda",
+          "text": "<p><br></p><div style=\"text-align: left; \"><font color=\"#000000\"><span style=\"font-size: 20px; line-height: 30px;\"><b><i>Robert</i></b> <b><i>Curran, Manager</i></b></span></font></div><div style=\"text-align: left; \">&nbsp; &nbsp;&nbsp;</div><div style=\"text-align: left; \">&nbsp; &nbsp; &nbsp;</div><div style=\"text-align: left; \">&nbsp;&nbsp;&nbsp;&nbsp;Bob Curran, is an entrepreneurial General Manager/Senior Executive who has experience leading top companies to sustainable revenue growth and bottom line results. Bob has varied executive, technical, manufacturing and business development expertise and is adept at identifying organizational strengths and weaknesses to launch or redirect missions and harvest untapped business opportunities. </div><div style=\"text-align: left; \"><br></div><div style=\"text-align: left; \">&nbsp;&nbsp;&nbsp;&nbsp;Bob has over two decades of experience as a Senior Executive in the consumer products industry. He has held leadership positions at R.J. Reynolds, HJ Heinz, and E.I. du Pont de Nemours &amp; Company. Bob has been President and Chief Executive Officer of Employer Services Online LLC since 2006. He has led the company since its inception and built the company around its current software platform.</div><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_inherit": "msg-box8",
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#000"
+            },
+            ".mbr-section-title": {
+              "color": "#4daee2",
+              "text-align": "center"
+            },
+            ".lead P": {
+              "font-size": "20px",
+              "text-align": "left"
+            },
+            ".lead DIV": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-1c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#efefef",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showText": true,
+            "showButton": false
+          },
+          "title": "Nicole Souadda",
+          "text": "<p><br></p><p><b><i>Rennie</i></b> <b><i>Rodriguez</i></b>, <b><i>Manager</i></b></p><p>&nbsp; &nbsp; </p><p>&nbsp;&nbsp;&nbsp;&nbsp;</p><p>&nbsp;&nbsp;&nbsp;&nbsp;Rennie has a broad and varied background in the Insurance industry including Retail Commercial Brokerage, Employee Benefits, Contract Surety, Program Business, and Agency Captives for the past 20 years. Rennie had started his insurance career in the Life and Health arenas, working for Metropolitan Life and Prudential from 1990 – 1994. Rennie joined Insurance &amp; Financial Services, located in Hockessin, Delaware.</p><p><br></p><p>&nbsp; &nbsp; Rennie co-founded Summit Insurance Group, Inc. in 1997. The agency grew from a start-up to $45,000,000 in premium. Summit Insurance employed as many as 45 employees and had multiple practices under one roof including an Agency Captive unit where he grew that captive to a 700% ROE in 5 years. The Surety Team wrote over $13MM in premium with less than $100K of losses over that same time frame.&nbsp;</p><p><br></p><p>&nbsp; &nbsp; Due to the success at which the agency captured market share and attention so quickly, First Niagara Risk Management, the Nations # 47 largest US Property &amp; Casualty Broker acquired Summit on November 1st, 2010. This Agency was started with a $50,000 SBA loan and was sold for $8,400,000. Rennie retired from Summit to incorporate Brandywine Insurance Advisors, LLC.</p><div>&nbsp;</div><div>&nbsp;</div><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#2969b0"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#2969b0"
+            },
+            ".link, .dropdown-item": {
+              "color": "#2969b0"
+            },
+            ".link": {
+              "font-size": "0.85rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.921rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#2969b0",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#ffffff!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-16",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": "0.85",
+            "fontName": {},
+            "fontColor": "#2969b0",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-4x-483x128-20.png",
+              "height": 128,
+              "alt": "Employee Cash",
+              "link": "index.html",
+              "title": "Logo",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "alert",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 50,
+              "newWindow": false
+            }
+          },
+          "brand": "<a class=\"navbar-caption text-primary\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home&nbsp;</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">About Us</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Mission Statement.html\">Our Mission Statement&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Board of Directors.html\">Board of Directors&nbsp;</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"Management.html\">Management&nbsp;</a></div></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Locations.html\" aria-expanded=\"false\">Locations</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\">Services</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Services.html\" aria-expanded=\"false\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\" aria-expanded=\"false\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-secondary-outline btn-secondary\" href=\"index.html\">Apply Today</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-17",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#090909",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/employeecash-transparent-265x70-36.png",
+              "class": "card-img-top",
+              "width": 265,
+              "active": true,
+              "link": "#top",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "Contact US",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text2": "+1 484-498-8271",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text3": "2098 West Chester Pike, Suite 201<br>Broomall, PA 19008<br>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "text4": "info@employeecash.net",
+          "title1": "Links&nbsp;",
+          "text5": "<br><li><a href=\"Mission Statement.html\">Mission Statement&nbsp;</a></li><li><a href=\"Locations.html\">Locations&nbsp;</a></li><li><a href=\"Management.html\">Management</a></li><li><a href=\"Board of Directors.html\">Board of Directors</a></li><li><a href=\"Services.html\">Services</a></li>",
+          "text6": "",
+          "form": {
+            "title": "MESSAGE",
+            "action": "nicole.souadda@employeemax.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": false,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">Contact us</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff"
+            }
+          },
+          "_anchor": "footer1-18",
           "_params": {
             "paddingTop": 2,
             "paddingBottom": 2,
